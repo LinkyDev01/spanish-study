@@ -67,7 +67,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(135deg, #f5f7fa 0%, #E8F5E9 100%);
+    background: linear-gradient(135deg, #f5f7fa 0%, #f5f1e8 100%);
 }
 
 .hero-background {
